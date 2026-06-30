@@ -1,5 +1,5 @@
 ---
-
+const pageTitle = "Nosotros";
 ---
 
 <html lang="en">
@@ -12,9 +12,11 @@
 		<title>Astro</title>
 	</head>
 	<body>      
-        <a href="/">Inicio  </a>
-        <a href="/about">Sobre nosotros  </a>
-        <a href="/blog">Blog  </a>
+        <nav>
+            <a href="/">Inicio </a>
+            <a href="/about">Sobre {pageTitle} </a>
+            <a href="/blog">Blog </a>
+        </nav>
 
 		<h1>Mi primera WEB en Astro</h1>
 		<p>esta es mi línea de párrafo</p>
