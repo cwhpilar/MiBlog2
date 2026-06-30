@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/MarkdownPostLayout.astro
+
 title: "Mi primer post: ¡Hola Mundo desde Astro!"
 pubDate: 2026-06-30
 description: "Estreno mi blog personal desarrollado con Astro, el framework web para conseguir la máxima velocidad."
