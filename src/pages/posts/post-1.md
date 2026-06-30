@@ -35,5 +35,3 @@ Si estás pensando en crear un blog o un sitio estático, te recomiendo totalmen
 ¡Gracias por pasarte a leer mi primer artículo! 
 
 ***
-
-*¿Tienes alguna duda sobre cómo monté esta web con Astro? ¡Házmelo saber en las redes sociales!*
